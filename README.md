@@ -2,8 +2,9 @@
 <br>
 <p align="center">
     
+<img src="client/src/assets/sem titulo.png">
 <img src="client/src/assets/login.png">
-<img src="">
+<img src="client/src/assets/write.png">
 
 </p>
 
