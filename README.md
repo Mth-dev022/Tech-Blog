@@ -59,5 +59,5 @@ Back-end
 - Json Web Token
 - Multer
 
-Banco de dados:
+Banco de dados: <br>
 -MySQL
