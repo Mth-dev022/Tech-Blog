@@ -3,13 +3,13 @@
 <p align="center">
     
 <img src=" ">
-<img width="">
+<img src="">
 
 </p>
 
 #  📝 Descrição do projeto
 <p>
-   Aplicação full stack utilizando React.js para o frontend e Node.js com MySQL para o backend. O sistema permite aos usuários realizar cadastro e autenticação utilizando JWT (JSON Web Tokens), além de oferecer funcionalidades para criar e editar posts no blog.
+ Blog full stack que combina o poder do React.js no frontend e Node.js com MySQL no backend. Na parte de autenticação, integrei a funcionalidade utilizando JSON Web Tokens (JWT), com os tokens JWT armazenados em cookies para uma gestão eficiente das sessões dos usuários. Além disso, a aplicação capacita os usuários a criarem e editarem posts no blog, agregando uma dimensão interativa e dinâmica à experiência do usuário.
 </p>
 
 ## Pré-requisitos
