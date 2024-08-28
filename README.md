@@ -8,7 +8,7 @@
 
 </p>
 
-#  📝 Descrição do projeto
+#  📝 Descrição do projet
 <p>
  Blog full stack que combina React.js no frontend e Node.js com MySQL no backend. Na parte de autenticação do usuario, integrei a funcionalidade utilizando JSON Web Tokens (JWT), com os tokens JWT armazenados em cookies para uma gestão eficiente das sessões dos usuários. Além disso, a aplicação capacita os usuários a criarem e editarem posts no blog, com as postagens sendo salvas diretamente no banco de dados, garantindo uma persistência eficaz das informações.
 </p>
